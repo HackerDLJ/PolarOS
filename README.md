@@ -1,6 +1,6 @@
 # PolarOS
 
-Integrated Polar Science Outreach, Knowledge Repository & Media Dissemination Portal.
+Integrated Polar Science Outreach, Knowledge Repository & Media Dissemination Portal by Team JATABELS.
 
 ## Stack
 React + TypeScript + Vite + Three.js/React Three Fiber + Python FastAPI + PostgreSQL/PostGIS + Java ingestion service + Docker + GitHub Actions.
